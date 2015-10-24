@@ -1,0 +1,4 @@
+"Width" = 5in
+"Height" = 10in
+"Thick" = 0.15in
+"Overhang" = 0.3in
